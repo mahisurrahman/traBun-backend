@@ -1,0 +1,125 @@
+Global Features
+===============
+1. Can Take Notes
+2. Can Save Their Last Projects
+    a. Project Time-tables 
+    b. Project Mile-stones
+    c. Project Plannings
+        a. Note-wise Plannings
+        b. ERD Diagram Image
+3. Attendance
+
+4. Daily Progress Report
+5. Weekly Progress Report
+6. Monthly Progress Report
+
+7. Monthly Goals
+    a. Ex: Read Books
+        a. List of all books that was Read.
+        b. Quote certain specialities from that specific book.
+    b. Ex: Do 3 Big Projects
+        a. Speciality of that project and why?
+
+8. Mark Schedules on Calendars
+9. Store Documents
+    a. Appointment Letters
+    b. NOC 
+    c. Joining Letters
+    d. Resignations
+    e. Certificates
+    f. etc.
+
+10. Live Chat between Admin and Users
+
+
+Admin Panel
+===========
+1. Admin can create users
+2. Admin can remove users
+3. Admin can update users
+
+4. Admin can falsify user's Attendance
+5. Admin can keep track of the Salary
+
+6. Admin can track the:
+    a. Total Tasks Assigned
+        a. Following Members who had done the tasks
+        b. And how much they had involved into those tasks. 
+    b. Total Projects Completed
+        a. Following Members who are involved on the Projects   
+        b. And how much they had invovled into those Projects. 
+    c. Total Projects in Progress
+        a. Following Members who are involved on the Projects. 
+        b. And how much they had involved into those projects.
+        c. Assign more developers 
+        d. Reduce developers
+    d. Total Cancelled Projects
+        a. Following Members who are assigned on the projects (if any).
+        b. How much they are involved into those projects. 
+
+7. Kanban Board
+    a. Ability to create Multiple Boards
+    b. Customization of Columns 
+        a. To Do
+        b. Assigned
+        c. Progress
+        d. Completed
+        e. UnAssigned
+        g. Confirmed
+        f. Backlog
+        g. Reviewed
+        h. Blocked
+        i. Merged to Git
+        j. etc.
+
+    c. Create New Tasks
+    d. Drag and Drop tasks from columns to columns
+
+    e. Tasks Holding
+        a. Tasks Title
+        b. Tasks Details
+        c. Attachments: PDFs, Images
+        d. CheckLists
+        f. Deadline Time/Date
+
+        e. Labels 
+            a. Priority -> High
+            b. Priority -> Medium
+            c. Priority -> Casual
+            d. Priority -> Now
+            e. Priority -> Not Mendatory
+
+        f. Progress Bar for 
+            a. Timeline (Deadline Maintaining)
+                -> Closer to Deadline with Increase the Progress Bar
+
+        g. If Deadline Crosses
+            a. Counting the Hours and Minutes (from the deadline crossed to the finish Line)
+            b. Overdue will affect on the User's Stats 
+
+        h. Comments on every tasks
+        i. Clicking on any tasks will open a big modal holding the details of the tasks
+        j. 
+
+    f. Setup Timeline for the entire project
+    g. List of All Tasks Assigned
+    h. Access All the Data's from user panel (without edit access);
+
+
+User Panel 
+==========
+1. Users can see their statistics on their dashboard
+2. Statistics as in: 
+    a. How many Tasks Completed:
+        i. Within Deadline
+        ii. Crossed the Deadline
+        iii. Couldn't Complete the Tasks or Declined
+        iv. Pending 
+        v. Progress
+        vi. Cancelled By User
+        vii. Rejected by Admin
+
+    b. Projects: 
+        i. How many projects user involved
+        ii. How many projects did user got Declined
+        iii. 
